@@ -1,2 +1,12 @@
+
 header {background-color:gray}
 body {background-color: lightgray}
+.background
+{background-color: aqua;}
+#welcom
+{background-color: brown;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 10px;
+padding-right: 10px;
+}
